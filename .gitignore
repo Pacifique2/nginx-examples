@@ -1,0 +1,13 @@
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# .tfvars
+
+*tfvars
+
+# .plan files
+*.plan
+
+# .terraform
+*.terraform 
